@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioPoneder
-- 👀 Interested in Smart Contracts, Web3, zkRollups and Embedded development
-- 🏢 Experience in Industrial Automation, GPU-accelerated Parallel Computing and Embedded development
+- 👀 Interested in smart contracts, Web3, zkRollups and embedded development
+- 🏢 Experience in industrial automation, GPU-accelerated parallel computing and embedded development
 - 🌱 Currently learning Solidity and Web3 DApp development
 - 💞️ Looking to collaborate on projects to decentralize the future, block by block ...
 - 📫 You can reach me via m.poneder@decentra.vision
