@@ -4,6 +4,7 @@
 - 🌱 Always open to expand my knowledge about Solidity and Web3 DApp development
 - 💞️ Looking to collaborate on projects to decentralize the future, block by block ...
 - 📫 You can reach me via m.poneder@decentra.vision
+- 🔑 [My key take-aways from reviewing vulnerable Solidity smart contracts](https://github.com/MarioPoneder/smart-contract-security-take-aways/blob/master/README.md)
 
 <!---
 MarioPoneder/MarioPoneder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
