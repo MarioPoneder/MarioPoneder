@@ -5,7 +5,7 @@
 - 🔱 Passionate about bug bounty programs and decentralized audits at [Immunefi](https://immunefi.com/), [Code4rena](https://code4rena.com/) and [Sherlock](https://www.sherlock.xyz/)
 - 💞️ Looking to collaborate on projects to decentralize the future, block by block ...
 - 📫 You can reach me via m.poneder@decentra.vision
-- 📈 Favourite framework for finding smart contract vulnerabilites: [Solidity Coding, Testing and Audit Template](https://github.com/MarioPoneder/solidity-audit-template)
+- 📈 Favourite framework for finding smart contract vulnerabilities: [Solidity Coding, Testing and Audit Template](https://github.com/MarioPoneder/solidity-audit-template)
 - 🔑 [My key take-aways from reviewing vulnerable Solidity smart contracts](https://github.com/MarioPoneder/smart-contract-security-take-aways/blob/master/README.md) from my early days
 
 <!---
