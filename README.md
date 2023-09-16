@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioPoneder
-- 👀 Focused on smart contracts audits and Web3 development
+- 👀 Focused on smart contracts security reviews and Web3 development
 - 🏢 Previous experience in industrial automation, GPU-accelerated parallel computing and embedded development
 - 🌱 Always open to expand my knowledge about smart contract security
 - 🔱 Passionate about bug bounty programs and decentralized audits at [Immunefi](https://immunefi.com/), [Code4rena](https://code4rena.com/) and [Sherlock](https://www.sherlock.xyz/)
