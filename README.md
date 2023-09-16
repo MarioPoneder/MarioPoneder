@@ -6,7 +6,7 @@
 - 💞️ Looking to collaborate on projects to decentralize the future, block by block ...
 - 📫 You can reach me via m.poneder@decentra.vision
 - 📈 Favourite framework for finding smart contract vulnerabilities: [Solidity Coding, Testing and Audit Template](https://github.com/MarioPoneder/solidity-audit-template)
-- 🔑 [My key take-aways from reviewing vulnerable Solidity smart contracts](https://github.com/MarioPoneder/smart-contract-security-take-aways/blob/master/README.md) from my early days
+- 🔑 [My public findings in decentalized audits](https://github.com/MarioPoneder/audits)
 
 <!---
 MarioPoneder/MarioPoneder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
