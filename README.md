@@ -10,6 +10,4 @@ Before Web3: engineering physics, embedded software, GPU computing, and dark mat
 
 🔬 I also contribute to [Observer Patch Holography](https://github.com/FloatingPragma/observer-patch-holography), exploring the foundations of physics through formal proofs and reproducible simulations.
 
-> Securing the decentralized future, block by block
-
 ### [Public findings & audit reports ↗](https://github.com/MarioPoneder/audits)
